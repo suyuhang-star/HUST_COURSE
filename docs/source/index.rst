@@ -1,6 +1,16 @@
 欢迎来到华中科技大学课程攻略共享计划
 ===================================
 
+.. |star| image:: https://img.shields.io/github/stars/minggong6/HUST_COURSE?style=social
+   :target: https://github.com/minggong6/HUST_COURSE
+   :alt: GitHub stars
+
+.. |fork| image:: https://img.shields.io/github/forks/minggong6/HUST_COURSE?style=social
+   :target: https://github.com/minggong6/HUST_COURSE/fork
+   :alt: GitHub forks
+
+|star| |fork|
+
 “我们希望只要前人走过的路，后人就不必再走。"
 
 考完复变的一个晚上，在东十二的我看到这句话深受触动
