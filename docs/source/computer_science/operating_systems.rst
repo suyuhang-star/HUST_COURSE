@@ -12,5 +12,7 @@
 
 资料下载
 --------
-* :download:`2023期末真题 (PDF) <../../downloads/os_2023.pdf>`
+* `17年试卷 <https://raw.githubusercontent.com/minggong6/HUST_COURSE/main/复变函数/真题及解答/2017.pdf>`_
 * :download:`实验报告模板 (Word) <../../downloads/os_lab_template.docx>`
+**往年试卷：**
+* `17年试卷 <https://raw.githubusercontent.com/minggong6/HUST_COURSE/main/复变函数/真题及解答/2017.pdf>`_
