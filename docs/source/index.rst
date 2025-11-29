@@ -1,21 +1,31 @@
 欢迎来到华中科技大学课程攻略共享计划
 ===================================
 
-我们希望只要前人走过的路，后人就不必再走。
+“我们希望只要前人走过的路，后人就不必再走。"
 
-这里收集了历年试卷、复习资料和学长学姐的考试经验。
+考完复变的一个晚上，在东十二的我看到这句话深受触动
+
+我们的学习资料似乎总是零零碎碎，时常我为了获取一些备考资料而在小红书、各个QQ群里辗转反侧，浪费了大量时间。我想如果把这段经历整理成一个共享的项目，或许能帮助到更多的人。
+
+但是我一个人的力量是有限的，非常非常希望能有更多的uu也参与进来，完善整个项目。
+
+现在只是完成了框架搭建，但是内容尚未填写完毕，欢迎大家**Fork**这个项目，添加你所掌握的课程资料，提交**Pull Request**，让更多的同学受益！
+
+在这里收集了历年试卷、复习资料和学长学姐的考试经验。
+
+**目前进度：**
+   完成了复变函数的资料整理
 
 .. toctree::
    :maxdepth: 2
    :caption: 课程目录
 
-   computer_science/index
-   electricity/index
+   
    mathmatics/index
+   science/index
    open_courses/index
    ideological_politics/index
    public_elective/index
    professional_elective/index
-   science/index
    electrical/index
    information/index
