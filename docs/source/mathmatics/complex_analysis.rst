@@ -12,9 +12,9 @@
 
 资料下载
 --------
-* :download:`复变串讲ppt <../../复变函数/复变串讲ppt>`
-* :download:`复变串讲ppt <../../复变函数/复变串讲by董嘉城>`
-* :download:`复变串讲ppt <../../复变函数/复变练习册答案合集>`
+* :download:`复变串讲ppt <../../复变函数/复变串讲ppt.pptx>`
+* :download:`复变串讲ppt <../../复变函数/复变串讲by董嘉城.pdf>`
+* :download:`复变串讲ppt <../../复变函数/复变练习册答案合集.pdf>`
 **往年试卷：**
 * `17年试卷 <https://raw.githubusercontent.com/minggong6/HUST_COURSE/main/复变函数/真题及解答/2017.pdf>`_
 * `17年试卷 <https://raw.githubusercontent.com/minggong6/HUST_COURSE/main/复变函数/真题及解答/2017.pdf>`_
