@@ -59,12 +59,15 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 对于教师的评价请一律使用姓名拼音首字母缩写；至于教师提供的课件就不用上传了，因为每年说不定会有更新的嘛。
 
 由于本项目体积很大，故可以采用在Github Web端直接上传的方式，具体操作如下：
+<img width="2549" height="1412" alt="image" src="https://github.com/user-attachments/assets/2ff55a5d-1976-4f44-8955-61e6ee592acc" />
+<img width="2549" height="1412" alt="image" src="https://github.com/user-attachments/assets/d1b4adcf-a523-419a-8c60-8387062e6b26" />
+
 
 0. 首先Fork本项目
 
-1. 上传文件到已有文件夹：打开对应文件夹，点击绿色Download按钮旁的upload，上传你的文件。
+1. 上传文件到已有文件夹：打开对应文件夹，点击add file，上传你的文件。
 
-2. 上传文件到新文件夹：打开任意文件夹，点击绿色Download按钮旁的upload，**把浏览器地址栏中文件夹名称改为你想要新建的文件夹名称，然后回车**，上传你的文件。
+2. 上传文件到新文件夹：打开任意文件夹，点击绿色CODE按钮旁的add file，**把浏览器中的地址文件夹名称改为你想要新建的文件夹名称，然后回车**，上传你的文件。
 
 ### 提醒
 
